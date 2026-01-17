@@ -35,6 +35,8 @@
 ---
 ## Куски с подписями 
 
+## Окно со справкой
+
 ```bash
 def aboutMsg():
     messagebox.showinfo(
