@@ -125,3 +125,5 @@ Cправка — вызывает aboutMsg, честно рассказывае
 
 ```bash
 python fd.py
+```
+<img width="302" height="228" alt="Снимок экрана 2026-01-23 в 15 45 25" src="https://github.com/user-attachments/assets/024c7b18-93c5-4a89-b434-c306934e6418" />
